@@ -34,12 +34,12 @@ roles:
  - title: Teaching Assistant
    start: 2018
    end: 2018
-   employer: UP
+   employer: University of Pretoria
    description: Programming teaching assistant, involved in practicals tutoring.
  - title: Computer Trainer
    start: 2018
    end: 2018
-   employer: UP
+   employer: University of Pretoria
    description: Computer training lecturer.
 
 #Education is required
@@ -49,23 +49,23 @@ education:
    subject: Computer Science
    school: University of Pretoria
    
-#This section is optional (as is the image link below)
-coursera:
-   profileurl: 
-   courses:
-    - title: 
-      link: 
-      optionalimage: 
-      date: 
+# #This section is optional (as is the image link below)
+# coursera: 
+#    profileurl: 
+#    courses:
+#     - title: 
+#       link: 
+#       optionalimage: 
+#       date: 
 
 #This section is optional - embeds slideshows from speakerdeck
 # to get the speakerdeck ID copy the embed code and look for the data-it attribute
-speakerdeck:
-   profileurl: 
-   talks:
-    - title: 
-      speakerdeckId: 
-      conference: 
+# speakerdeck:
+#    profileurl: 
+#    talks:
+#     - title: 
+#       speakerdeckId: 
+#       conference: 
 
 #List of interesting Github repo/projects to include - optional
 github:
