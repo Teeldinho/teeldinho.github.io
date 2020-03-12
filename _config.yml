@@ -68,8 +68,7 @@ education:
 #       conference: 
 
 # #List of interesting Github repo/projects to include - optional
-# github:
-#  - Teeldinho/teeldinho.github.io
+github:
  
 # #Stackoverflow flair is optional
 # stackoverflow:
